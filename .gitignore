@@ -1,0 +1,14 @@
+# ignore all .txt files
+*.txt
+venv/
+
+# Ignore large CSV file
+US_Accidents_March23.csv
+
+# Ignore large ZIP file
+archive(2).zip
+
+sample_Data/
+*.csv
+
+
