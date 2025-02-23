@@ -1,4 +1,5 @@
 weather = input("Is the weather rainy, foggy or sunny")
+#hi
 weather.lower()
 speed = int(input("What is speed of car?"))
 if (weather == "rainy" or weather == "foggy") and (speed>70):
